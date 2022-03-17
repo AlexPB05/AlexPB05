@@ -1,3 +1,4 @@
+![Captura de pantalla_2022-01-26_19-43-16](https://user-images.githubusercontent.com/92725625/158907599-088e7428-d14f-4328-989c-b1c542bf3069.png)
 ### I m alex 👋
 
 <!--
@@ -6,5 +7,5 @@ Print ("
 - 📕ignorance is knowledge
  - 💻 Kali 
 - 🇻🇪 VE
-![Captura de pantalla_2022-01-26_19-43-16](https://user-images.githubusercontent.com/92725625/158907058-1aaef259-b1ba-4d43-a159-71b2d7a5c04d.png)
+
 -->
